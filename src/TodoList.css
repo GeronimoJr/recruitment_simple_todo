@@ -1,0 +1,16 @@
+.TodoList {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.TodoList ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.TodoList ul li {
+    border-bottom: 1px solid #B2EBF2;
+    padding: 20px;
+}
+.color {
+    background-color: #E0F7FA;
+}
